@@ -9,7 +9,9 @@ body {
 }
 
 section {
-  min-height: 400px;
+  /* min-height: 400px; */
+  min-width: 375px;
+  max-width: 1440px;
   border-radius: 10px !important;
 }
 
